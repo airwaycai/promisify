@@ -2,7 +2,9 @@
  *
  * promisify化api
  *
- * @param {string} name api名字
+ * @param {string} swan 小程序（swan, wx等）
+ * @param {string} method api名字
+ * @param {object} options api参数
  * @return {function(*=): Promise<*>} promisify的api
  */
 
