@@ -1,0 +1,19 @@
+{
+  "name": "@duer/promisify",
+  "version": "1.0.0",
+  "description": "program api promisify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/airwaycai/promisify.git"
+  },
+  "author": "eric",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/airwaycai/promisify/issues"
+  },
+  "homepage": "https://github.com/airwaycai/promisify#readme"
+}
